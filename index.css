@@ -79,7 +79,7 @@ animation: cambio 45s infinite alternate;
     list-style: none;
 }
 .slider img{
-    width: 60%;
+    width: 80%;
 }
 @keyframes cambio {
     0% { margin-left: 0;}
